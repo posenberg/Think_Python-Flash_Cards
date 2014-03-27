@@ -1,0 +1,27 @@
+problem solving
+high-level language 
+low-level language
+portability
+interpret
+compile
+source code
+object code 
+executable
+prompt
+script 
+interactive mode 
+script mode 
+program
+algorithm
+bug
+debugging
+syntax
+syntax error 
+exception
+semantics 
+semantic error
+natural language 
+formal language 
+token 
+parse 
+print statement 

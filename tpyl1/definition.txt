@@ -1,0 +1,27 @@
+The process of formulating a problem, finding a solution, and expressing the solution.
+A programming language like Python that is designed to be easy for humans to read and write.
+A programming language that is designed to be easy for a computer to execute; also called “machine language” or “assembly language.”
+A property of a program that can run on more than one kind of computer. 
+To execute a program in a high-level language by translating it one line at a time.
+To translate a program written in a high-level language into a low-level language all at once, in preparation for later execution.
+A program in a high-level language before being compiled.
+The output of the compiler after it translates the program.
+Another name for object code that is ready to be executed.
+Characters displayed by the interpreter to indicate that it is ready to take input from the user.
+A program stored in a file (usually one that will be interpreted).
+A way of using the Python interpreter by typing commands and expressions at the prompt.
+A way of using the Python interpreter to read and execute statements in a script.
+A set of instructions that specifies a computation.
+A general process for solving a category of problems.
+An error in a program.
+The process of finding and removing any of the three kinds of programming errors.
+The structure of a program.
+An error in a program that makes it impossible to parse (and therefore impossible to interpret).
+An error that is detected while the program is running.
+The meaning of a program.
+An error in a program that makes it do something other than what the programmer intended.
+Any one of the languages that people speak that evolved naturally.
+Any one of the languages that people have designed for specific pur- poses, such as representing mathematical ideas or computer programs; all program- ming languages are formal languages.
+One of the basic elements of the syntactic structure of a program, analogous to a word in a natural language.
+To examine a program and analyze the syntactic structure.
+An instruction that causes the Python interpreter to display a value on the screen.
